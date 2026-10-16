@@ -1,0 +1,1 @@
+A list of practical Python problems for real-world scenarios.
