@@ -1,5 +1,5 @@
 '''
-You’re investigating a server running low on disk space. Write a function that recursively searches a directory and returns its k largest log files.
+You're investigating a server running low on disk space. Write a function that recursively searches a directory and returns its k largest log files.
 def largest_logs(root_dir, k):
     ...
 Return a list of (absolute_path, size_in_bytes) tuples, ordered from largest to smallest.

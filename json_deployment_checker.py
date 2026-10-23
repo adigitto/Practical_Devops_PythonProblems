@@ -1,6 +1,6 @@
 '''
 Problem 5: Validate a JSON service configuration
-You’re writing a pre-deployment checker. It reads a JSON configuration and reports invalid service settings before deployment.
+You're writing a pre-deployment checker. It reads a JSON configuration and reports invalid service settings before deployment.
 Implement:
 def validate_config(config_path):
     ...
